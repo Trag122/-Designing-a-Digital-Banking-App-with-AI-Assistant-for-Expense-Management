@@ -1,2 +1,2 @@
-# -De[signing-a-Digital-Banking-App-with-AI-Assistant-for-Expense-Management](https://github.com/Trag122/Design-of-digital-banking-application-integrating-AI-assistant-for-personal-financial-management)
+#  Design of digital banking application integrating AI assistant for personal financial management
 This project focuses on designing a digital banking application that integrates an AI virtual assistant to help users manage their personal expenses. The AI assistant will provide real-time tracking and categorization of spending, offering insights and recommendations tailored to each user’s financial habits. 
